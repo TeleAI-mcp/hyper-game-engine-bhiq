@@ -1,2 +1,3 @@
-# hyper-game-engine-bhiq
-A game engine project for modern development workflows
+# Hyper Game Engine Bhiq
+
+A game engine project for modern development workflows.
